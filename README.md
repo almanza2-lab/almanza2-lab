@@ -14,7 +14,7 @@ Hi, I’m Saturnino! I’m passionate about technology, problem-solving, and con
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Algorithm For File Updates in Python         | <a href="https://github.com/almanza2-lab/Python-Lab"> Python Lab</a>|
-|Risk Register | |
+|Risk Register |<a href="https://github.com/almanza2-lab/Risk-register"> Risk Register</a> |
 |     | |
 |      ||
 |                ||
