@@ -15,7 +15,7 @@ Hi, I’m Saturnino! I’m passionate about technology, problem-solving, and con
 |-----------------------------------------------|----------------------------|
 | Algorithm For File Updates in Python         | <a href="https://github.com/almanza2-lab/Python-Lab"> Python Lab</a>|
 |Risk Register |<a href="https://github.com/almanza2-lab/Risk-register"> Risk Register</a> |
-|     | |
+| Vulnerability Assessment Report    | <a href="https://github.com/almanza2-lab/Vulnerability-Assessment-Report"> Vulnerability Assessment Report </a>|
 |      ||
 |                ||
 |  | |
@@ -30,3 +30,5 @@ Hi, I’m Saturnino! I’m passionate about technology, problem-solving, and con
 
 ## Projects
 - <a href="https://github.com/almanza2-lab/Python-Lab"> Python Lab</a>
+- <a href="https://github.com/almanza2-lab/Risk-register"> Risk Register</a>
+- <a href="https://github.com/almanza2-lab/Vulnerability-Assessment-Report"> Vulnerability Assessment Report</a>
